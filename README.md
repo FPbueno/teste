@@ -2,7 +2,7 @@
 
 | Função         | Integrantes           |
 | ---------------|-----------------------|
-| Product Owner  | Isaac Souza Santos <a href="https://github.com/IsaacSs32" target="_blank">GIT</a>        |
+| Product Owner  | Isaac Souza Santos <a href="https://github.com/IsaacSs32" target="_blank"><img src="img/Git_logo"></a>        |
 | Scrum Master    | Fillipe Pereira Bueno de Almeida <a href="https://github.com/FPbueno" target="_blank">GIT</a>            |
 | Dev Team | Tiago Santini Da Silva <a href="https://github.com/TiagoSan23" target="_blank">GIT</a>        |
 | Dev Team | Renan Ming Han <a href="https://github.com/MingRenan" target="_blank">GIT</a>        |
